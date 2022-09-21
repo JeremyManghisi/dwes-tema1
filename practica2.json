@@ -1,0 +1,22 @@
+[
+    {
+        "pregunta": "¿Qué versión de HTTP te devuelve el servidor al solicitar el recurso http://baeldung.com?",
+        "respuesta": "Nos devuelve la versión 1.1"
+    },
+    {
+        "pregunta": "¿Qué código de estado te devuelve el servidor al solicitar el recurso http://baeldung.com?",
+        "respuesta": "Nos devuelve 301 Moved Permanently"
+    },
+    {
+        "pregunta": "¿Qué versión de HTTP te devuelve el servidor al solicitar el recurso https://www.ieslaencanta.com?",
+        "respuesta": "Nos devuelve la version 1.1"
+    },
+    {
+        "pregunta": "¿Qué código de estado te devuelve el servidor al solicitar el recurso http://ieslaencanta.com?",
+        "respuesta": "Nos devuelve 301 Moved Permanently"
+    },
+    {
+        "pregunta": "Realiza un petición con cURL al recurso https://www.ieslaencanta.com inyectando la cabecera User-Agent con valor MiNavegadorWeb y la cabecera accept con valor text/html.",
+        "respuesta": "No respondas, haz la captura y guárdala en el mismo repositorio que este fichero."
+    }
+]
